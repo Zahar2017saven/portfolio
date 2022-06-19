@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+.link-header{
+    background-color: red;
+    color: black;
+}
+P{
+    color: red;
+}
+h1{
+    color: red;
+}
+.link-nav{
+    color: red;
+}
